@@ -187,3 +187,5 @@ Before starting, ensure you have the following:
 - [YOLOv11s Training Tutorial](https://www.youtube.com/watch?v=r0RspiLG260)
 - [Label Studio](https://labelstud.io/)
 - [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
+
+---
