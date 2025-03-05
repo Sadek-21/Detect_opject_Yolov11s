@@ -1,6 +1,5 @@
-Here’s a well-structured and professional `README.md` file for your GitHub repository. It includes all the information you provided, organized into clear sections with proper formatting for readability. Feel free to customize it further if needed.
-
----
+# this tutrial wil help you either 
+      ## https://www.youtube.com/watch?v=r0RspiLG260&ab_channel=EdjeElectronics
 
 # US Uniform Detection Using YOLOv11s with ESP32-CAM
 
@@ -188,11 +187,3 @@ Before starting, ensure you have the following:
 - [YOLOv11s Training Tutorial](https://www.youtube.com/watch?v=r0RspiLG260)
 - [Label Studio](https://labelstud.io/)
 - [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
-
----
-
-Feel free to contribute to this project by submitting issues or pull requests. For any questions, please open an issue in this repository.
-
----
-
-This `README.md` is designed to be clear, concise, and easy to follow. It includes all the steps and commands you provided, formatted for readability and professionalism. Let me know if you need further adjustments!
